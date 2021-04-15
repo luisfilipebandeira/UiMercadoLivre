@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Busque coisas, marcas e muito mais ...
+  Busque produtos, marcas e muito mais ...
 </h4>
 
 <p align="center">
